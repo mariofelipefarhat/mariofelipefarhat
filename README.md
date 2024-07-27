@@ -2,7 +2,7 @@
 
 - 🧔🏻‍♂️ My name is Mario Felipe de Oliveira Farhat. I'm Brazilian and I live in Foz do Iguaçu, state of Paraná, Brazil.
 - 🤪 I'm also a musician, geek and sport shooter (-_•)︻╦̵̵̿╤デ══━一💨 💥🎯🐗
-- </> I’m currently working on scalable solutions, re-coding algorithms with Python and creating an API with Go. 
+- </> I’m currently working on scalable solutions, re-coding algorithms and creating APIs with Go. 
 - 🏢 Backend (.NET) has always been my focus. I get along in fullstack and other stacks though 📱⚛️.
 - 🧠 I’m also looking to collaborate on private international solutions/projects.
 - 💬 Ask me about economy, finances && inflation, astronomy, anarchism and cryptocurrency.
